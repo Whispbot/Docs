@@ -61,7 +61,9 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://whisp.bot/invite"
+      "discord": "https://whisp.bot/invite",
+      "github": "https://github.com/Whispbot/Whispbot",
+      "website": "https://whisp.bot"
     }
   },
   "background": {
@@ -70,5 +72,14 @@
       "light": "#dccce4",
       "dark": "#0d021f"
     }
+  },
+  "styling": {
+    "latex": true
+  },
+  "api": {
+    "openapi": "https://beta-api.whisp.bot/schema.json"
+  },
+  "seo": {
+    "indexing": "navigable"
   }
 }

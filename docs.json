@@ -63,5 +63,12 @@
     "socials": {
       "discord": "https://whisp.bot/invite"
     }
+  },
+  "background": {
+    "decoration": "grid",
+    "color": {
+      "light": "#dccce4",
+      "dark": "#0d021f"
+    }
   }
 }

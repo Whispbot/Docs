@@ -76,9 +76,6 @@
   "styling": {
     "latex": true
   },
-  "api": {
-    "openapi": "https://beta-api.whisp.bot/schema.json"
-  },
   "seo": {
     "indexing": "navigable"
   }
